@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+  
+## 志之所趋，无远弗届
 
-<!--
-**zhuozhiyongde/zhuozhiyongde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- <p align="center"> -->
+<!--   <img src="" width="100%" title="Intro Card" alt="Intro Card"> -->
+<!-- </p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhuozhiyongde&show_icons=true" alt="zhuozhiyongde">
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### I Code in...
+<img src="https://img.shields.io/badge/-Python-E8F6EF?style=flat&logo=python&logoColor=ffffff">    <img src="https://img.shields.io/badge/-CSS-B8DFD8?style=flat&logo=css3&logoColor=ffffff">    <img src="https://img.shields.io/badge/-C++-FFE194?style=flat&logo=cplusplus&logoColor=ffffff">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuozhiyongde&layout=compact&hide=html" alt="zhuozhiyongde"">
+</p>
+
+### You can checkout my blogs
+http://arthals.ink
+  </div>
