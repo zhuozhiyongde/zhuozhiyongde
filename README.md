@@ -21,7 +21,7 @@
 ### You can checkout my blogs
 http://arthals.ink
   
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=dc143c">
+  <img src="https://komarev.com/ghpvc/?username=zhuozhiyongde&color=dc143c">
   
   </div>
 
