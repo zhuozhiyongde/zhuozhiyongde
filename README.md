@@ -12,17 +12,30 @@
 
 
 ---
-### I Code in...
-<img src="https://img.shields.io/badge/-Python-FBC43F?style=flat&logo=python&logoColor=ffffff">    <img src="https://img.shields.io/badge/-C++-FCDD9E?style=flat&logo=cplusplus&logoColor=ffffff">    <img src="https://img.shields.io/badge/-HTML-DADEDF?style=flat&logo=HTML5&logoColor=ffffff">    <img src="https://img.shields.io/badge/-CSS-B8DFD8?style=flat&logo=css3&logoColor=ffffff">    <img src="https://img.shields.io/badge/-JavaScript-B6CBE0?style=flat&logo=JavaScript&logoColor=ffffff">    <img src="https://img.shields.io/badge/-Vue-AEB8D1?style=flat&logo=vue.js&logoColor=ffffff">
+### My Stack
+
+#### Current
+
+![current](https://skillicons.dev/icons?i=vue,python,md,nuxtjs,nodejs,figma,ps,js,css,cpp,c&perline=6&theme=dark)
+
+#### Used
+
+![used](https://skillicons.dev/icons?i=mysql,react,r,vim,nginx,cs,ai,ts&perline=6&theme=dark)
+
+#### Tools
+
+![tools](https://skillicons.dev/icons?i=github,vscode,linux,git&perline=6&theme=dark)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuozhiyongde&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
 </p>
 
 ### You can checkout my blogs
-https://arthals.ink
+https://arthals.ink/
   
-  <img src="https://komarev.com/ghpvc/?username=zhuozhiyongde&color=dc143c">
+<img src="https://komarev.com/ghpvc/?username=zhuozhiyongde&color=dc143c">
   
-  </div>
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=36695271)
