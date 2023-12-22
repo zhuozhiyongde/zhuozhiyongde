@@ -2,6 +2,7 @@
   
 ## 志之所趋，无远弗届
 
+Chasing an elusive light.
 
 <!-- <p align="center"> -->
 <!--   <img src="" width="100%" title="Intro Card" alt="Intro Card"> -->
