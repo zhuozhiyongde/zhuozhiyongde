@@ -1,6 +1,6 @@
 <div align="center">
 
-![conanai.png](https://s11.ax1x.com/2023/12/27/piqSxcq.png)
+![conanai.png](https://s11.ax1x.com/2024/01/02/pijGn6H.png)
   
 ## 志之所趋，无远弗届
 
