@@ -2,7 +2,9 @@
 
 ![conanai.png](https://s11.ax1x.com/2024/01/02/pijGn6H.png)
   
-## 志之所趋，无远弗届
+<div align="center">
+  <h1><pre>志之所趋，无远弗届 </pre></h1>
+</div>
 
 Chasing a light beyond reach.
 
