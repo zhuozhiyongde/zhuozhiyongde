@@ -21,7 +21,7 @@ Chasing a light beyond reach.
 
 #### Current
 
-![current](https://skillicons.dev/icons?i=vue,python,md,nuxtjs,nodejs,figma,ps,js,css,cpp,c&perline=6&theme=dark)
+![current](https://skillicons.dev/icons?i=vue,python,md,nuxtjs,nodejs,figma,ps,js,css,cpp,c,docker&perline=6&theme=dark)
 
 #### Used
 
