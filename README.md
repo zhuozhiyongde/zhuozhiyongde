@@ -41,9 +41,7 @@ Chasing a light beyond reach.
 ### You can checkout my blogs
 
 https://arthals.ink/
-  
-<img src="https://komarev.com/ghpvc/?username=zhuozhiyongde&color=dc143c">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhuozhiyongde&count_bg=%2330BBCC&title_bg=%23555555&icon=spacex.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=36695271)
