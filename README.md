@@ -1,4 +1,6 @@
 <div align="center">
+
+![conanai.png](https://s11.ax1x.com/2024/01/02/pijGn6H.png)
   
 <div align="center">
   <h1><pre>Hi, I'm 𝔸𝕣𝕥𝕙𝕒𝕝𝕤</pre></h1>
