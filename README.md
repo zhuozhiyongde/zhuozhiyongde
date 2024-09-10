@@ -10,7 +10,7 @@
 
 Chasing a light beyond reach.
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20455%26project%3D%26in=0)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=000000&url=https://api.codetime.dev/shield?id=20455&project=&in=0&labelColor=000000&)](https://codetime.dev)
 
 <!-- <p align="center"> -->
 <!--   <img src="" width="100%" title="Intro Card" alt="Intro Card"> -->
@@ -44,6 +44,6 @@ Chasing a light beyond reach.
 
 https://arthals.ink/
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhuozhiyongde&count_bg=%2330BBCC&title_bg=%23555555&icon=spacex.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhuozhiyongde&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
 </div>
