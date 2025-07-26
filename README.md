@@ -20,8 +20,9 @@ A curious developer passionate about Artificial Intelligence & Web Development.
 
 ### 💫 Tech Stack and Tools
 
-| DESIGN           | ![][design-figma] ![][design-ps] ![][design-ai]                                                                |
+| Domain           | Skills                                                                |
 | :--------------- | :------------------------------------------------------------------------------------------------------------- |
+| Design           | ![][design-figma] ![][design-ps] ![][design-ai]|
 | Frontend         | ![][frontend-vue] ![][frontend-react] ![][frontend-js] ![][frontend-css]  ![][frontend-ts] |
 | Backend          | ![][backend-python] ![][backend-nodejs] ![][backend-cpp] ![][backend-c] ![][backend-mysql]     |
 | Machine Learning | ![][ml-pytorch] ![][ml-r]                                                                                      |
