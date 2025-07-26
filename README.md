@@ -44,8 +44,6 @@ You can checkout my blog [here](https://arthals.ink).
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuozhiyongde&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde Top Languages">
 </div>
 
-### 📊 My Contributions Overview
-
 <div align="center">
   <img src="https://github-contrib-stats.vercel.app/zhuozhiyongde/created.svg" alt="Repos I created">
 </div>
