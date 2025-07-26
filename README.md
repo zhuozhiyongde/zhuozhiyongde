@@ -6,9 +6,9 @@
 
 A curious developer passionate about Artificial Intelligence & Web Development.
 
-[![][social-github-stats-shield]][social-github-stats-link]
 [![][social-bilibili-shield]][social-bilibili-link]
 [![][social-wechat-shield]][social-wechat-link]
+[![][social-email-shield]][social-email-link]
 
 ![][split]
 
@@ -87,8 +87,8 @@ Hit me up anytime and let's explore new ideas together! 😺✨
 [other-markdown]: https://img.shields.io/badge/-Markdown-000?style=flat-square&logoColor=white&logo=markdown
 [social-bilibili-link]: https://space.bilibili.com/203396427
 [social-bilibili-shield]: https://img.shields.io/badge/-Bilibili-black?labelColor=black&logo=bilibili&logoColor=white&style=flat-square
-[social-github-stats-link]: https://github.com/zhuozhiyongde
-[social-github-stats-shield]: https://img.shields.io/badge/-GitHub_Stats-black?labelColor=black&logo=github&logoColor=white&style=flat-square
 [social-wechat-link]: #
 [social-wechat-shield]: https://img.shields.io/badge/-zhuozhiyongde-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
+[social-email-link]: mailto:i@arthals.ink
+[social-email-shield]: https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square
