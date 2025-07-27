@@ -15,7 +15,7 @@ A curious developer passionate about Artificial Intelligence & Web Development.
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=%E2%9C%A8+%E5%BF%97%E4%B9%8B%E6%89%80%E8%B6%8B%EF%BC%8C%E6%97%A0%E8%BF%9C%E5%BC%97%E5%B1%8A;%F0%9F%8C%9F+%E2%84%82%F0%9D%95%99%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98+%F0%9D%95%92+%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%98%F0%9D%95%99%F0%9D%95%A5+%F0%9D%95%93%F0%9D%95%96%F0%9D%95%AA%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%56%F0%9D%95%94%F0%9D%95%99" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=%E2%9C%A8+%E5%BF%97%E4%B9%8B%E6%89%80%E8%B6%8B%EF%BC%8C%E6%97%A0%E8%BF%9C%E5%BC%97%E5%B1%8A;%F0%9F%8C%9F+%E2%84%82%F0%9D%95%99%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98+%F0%9D%95%92+%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%98%F0%9D%95%99%F0%9D%95%A5+%F0%9D%95%93%F0%9D%95%96%F0%9D%95%AA%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%92%F0%9D%95%94%F0%9D%95%99" alt="Typing SVG" /></a>
 </div>
 
 ### 💫 Tech Stack and Tools
