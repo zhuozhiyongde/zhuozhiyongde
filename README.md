@@ -38,6 +38,26 @@ You can checkout my blog [here](https://arthals.ink).
 > [!NOTE]
 > Feel free to explore my articles and projects, and connect with me on GitHub!
 
+### 📝 Notes
+
+Here are some notes I took while pursuing my degree at Peking University / Peking University Health Science Center, hoping they can help those who come after me.
+
+Some of them are collaborative with my best friend [EmptyBlueBox](https://github.com/EmptyBlueBox), thanks for his help!
+
+- [Introduction-to-Computer-Science-B-2021Fall-PKUHSC / 计算概论 B](https://github.com/zhuozhiyongde/Introduction-to-Computer-Science-B-2021Fall-PKUHSC)
+- [Health-Statistics-2022-PKUHSC / 卫生统计学](https://github.com/zhuozhiyongde/Health-Statistics-2022-PKUHSC)
+- [Biochemistry-2022Fall-PKUHSC / 生物化学](https://github.com/zhuozhiyongde/Biochemistry-2022Fall-PKUHSC)
+- [Advanced-Mathematics-B-2022-PKU / 高等数学 B](https://github.com/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU)
+- [Introduction-to-Computer-System-2023Fall-PKU / 计算机系统导论](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)
+- [Fundamentals-of-Artificial-Intelligence-2024Spring-PKU / 人工智能基础](https://github.com/zhuozhiyongde/Fundamentals-of-Artificial-Intelligence-2024Spring-PKU)
+- [Computer-Architectures-2024Spring-PKU / 计算机组成原理](https://github.com/EmptyBlueBox/Computer_Architectures-ljl-2024Spring-PKU)
+- [Simplified-Quantum-Mechanics-2024Spring-PKU / 简明量子力学](https://github.com/zhuozhiyongde/Simplified-Quantum-Mechanics-2024Spring-PKU)
+- [Compiler-Principles-2024Fall-PKU / 编译原理](https://github.com/zhuozhiyongde/Compiler-Principles-2024Fall-PKU)
+- [Reinforcement-Learning-2024Fall-PKU / 强化学习](https://github.com/EmptyBlueBox/Reinforcement_Learning-2024Fall-PKU-Collaboration)
+- [Probability-Theory-and-Statistics-2024Fall-PKU / 信息学中的概率统计](https://github.com/zhuozhiyongde/Probability-Theory-and-Statistics-2024Fall-PKU)
+- [Introduction-to-Computer-Vision-2025Spring-PKU / 计算机视觉导论](https://github.com/zhuozhiyongde/Introduction-to-Computer-Vision-2025Spring-PKU)
+- [Embodied-Artificial-Intelligence-2025Spring-PKU / 具身智能导论](https://github.com/zhuozhiyongde/Embodied-Artificial-Intelligence-2025Spring-PKU)
+
 ### 👀 My GitHub Stats
 
 <div align="center">
