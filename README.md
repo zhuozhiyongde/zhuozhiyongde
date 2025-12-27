@@ -37,6 +37,9 @@ I am an undergraduate student & incoming Ph.D @ [Peking University](https://pku.
 
 You can checkout my blog [here](https://arthals.ink).
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 > [!NOTE]
 > Feel free to explore my articles and projects, and connect with me on GitHub!
 
