@@ -37,6 +37,9 @@ I am an undergraduate student & incoming Ph.D @ [Peking University](https://pku.
 
 You can checkout my blog [here](https://arthals.ink).
 
+> [!NOTE]
+> Feel free to explore my articles and projects, and connect with me on GitHub!
+
 <!-- BLOG-POST-LIST:START -->
 - [如何降级 iOS / iPadOS App](https://arthals.ink/blog/downgrade-ios-app)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part5](https://arthals.ink/blog/xv6-os-lab-part5)
@@ -49,9 +52,6 @@ You can checkout my blog [here](https://arthals.ink).
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part0](https://arthals.ink/blog/xv6-os-lab-part0)
 - [如何彻底解决 Cursor Remote-SSH Server 下载问题](https://arthals.ink/blog/cursor-remote-ssh-solution)
 <!-- BLOG-POST-LIST:END -->
-
-> [!NOTE]
-> Feel free to explore my articles and projects, and connect with me on GitHub!
 
 ### 📝 Notes
 
