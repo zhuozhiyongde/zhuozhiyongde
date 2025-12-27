@@ -60,23 +60,16 @@ Some of them are collaborative with my best friend [EmptyBlueBox](https://github
 - [Introduction-to-Computer-Vision-2025Spring-PKU / 计算机视觉导论](https://github.com/zhuozhiyongde/Introduction-to-Computer-Vision-2025Spring-PKU)
 - [Embodied-Artificial-Intelligence-2025Spring-PKU / 具身智能导论](https://github.com/zhuozhiyongde/Embodied-Artificial-Intelligence-2025Spring-PKU)
 
-### 👀 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhuozhiyongde&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde GitHub Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuozhiyongde&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde Top Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-contrib-stats.vercel.app/zhuozhiyongde/created.svg" alt="Repos I created">
-</div>
-
 Hit me up anytime and let's explore new ideas together! 😺✨
 
 <div align="right">
 
 ![][signature]
 
+</div>
+
+<div align="center">
+  <img src="https://github-contrib-stats.vercel.app/zhuozhiyongde/created.svg" alt="Repos I created">
 </div>
 
 <!-- SHIELD GROUP -->
