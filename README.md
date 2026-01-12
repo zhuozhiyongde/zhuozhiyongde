@@ -41,6 +41,8 @@ You can checkout my blog [here](https://arthals.ink).
 > Feel free to explore my articles and projects, and connect with me on GitHub!
 
 <!-- BLOG-POST-LIST:START -->
+- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part8](https://arthals.ink/blog/xv6-os-lab-part8)
+- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part6](https://arthals.ink/blog/xv6-os-lab-part6)
 - [如何降级 iOS / iPadOS App](https://arthals.ink/blog/downgrade-ios-app)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part5](https://arthals.ink/blog/xv6-os-lab-part5)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part4](https://arthals.ink/blog/xv6-os-lab-part4)
@@ -49,8 +51,6 @@ You can checkout my blog [here](https://arthals.ink).
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part2](https://arthals.ink/blog/xv6-os-lab-part2)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part3](https://arthals.ink/blog/xv6-os-lab-part3)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part1](https://arthals.ink/blog/xv6-os-lab-part1)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part0](https://arthals.ink/blog/xv6-os-lab-part0)
-- [如何彻底解决 Cursor Remote-SSH Server 下载问题](https://arthals.ink/blog/cursor-remote-ssh-solution)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📝 Notes
