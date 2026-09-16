@@ -41,6 +41,7 @@ You can checkout my blog [here](https://arthals.ink).
 > Feel free to explore my articles and projects, and connect with me on GitHub!
 
 <!-- BLOG-POST-LIST:START -->
+- [Treehole Art](https://arthals.ink/blog/treehole-art)
 - [困在北医的五年](https://arthals.ink/blog/trapped-at-pkuhsc)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part8](https://arthals.ink/blog/xv6-os-lab-part8)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part6](https://arthals.ink/blog/xv6-os-lab-part6)
@@ -50,7 +51,6 @@ You can checkout my blog [here](https://arthals.ink).
 - [如何高效利用录播](https://arthals.ink/blog/ai-utilized-replay)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part7](https://arthals.ink/blog/xv6-os-lab-part7)
 - [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part2](https://arthals.ink/blog/xv6-os-lab-part2)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part3](https://arthals.ink/blog/xv6-os-lab-part3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📝 Notes
